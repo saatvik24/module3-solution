@@ -72,6 +72,10 @@
         font-weight: bold;
     }
     
+    #theSection {
+        width: 99vw;
+    }
+    
     .category-tile {
         box-shadow: 5px 5px 15px #3a3a3a;
         background-color: #3066BE;
